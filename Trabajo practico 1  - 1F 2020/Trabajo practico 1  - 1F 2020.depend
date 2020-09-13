@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1599957584 source:c:\users\iñaki\desktop\trabajo practico 1  - 1f 2020\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Funciones.h"
+
+1599957583 c:\users\iñaki\desktop\trabajo practico 1  - 1f 2020\funciones.h
+
+1599958830 source:c:\users\iñaki\desktop\trabajo practico 1  - 1f 2020\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"Funciones.h"
+
