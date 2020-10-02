@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1601680309 source:c:\users\iñaki\desktop\1f_2020\trabajo practico 2  - 1f 2020\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+	"arrayEmployees.h"
+	"validaciones.h"
+
+1601680555 c:\users\iñaki\desktop\1f_2020\trabajo practico 2  - 1f 2020\arrayemployees.h
+
+1601680147 c:\users\iñaki\desktop\1f_2020\trabajo practico 2  - 1f 2020\validaciones.h
+
+1601679846 source:c:\users\iñaki\desktop\1f_2020\trabajo practico 2  - 1f 2020\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"validaciones.h"
+
+1601675241 source:c:\users\iñaki\desktop\1f_2020\trabajo practico 2  - 1f 2020\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+	"arrayEmployees.h"
+	"validaciones.h"
+
